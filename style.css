@@ -1,0 +1,14 @@
+.main-header {
+    text-align: center;
+    padding: 2rem;
+    background: linear-gradient(135deg, #6e8efb, #a777e3);
+    color: white;
+    border-radius: 10px;
+    margin-bottom: 2rem;
+}
+
+.detection-card {
+    background: #ffffff;
+    padding: 1.5rem;
+    border-radius: 15px;
+    box-shadow: 0 4px 6px rgba(0,0,0,)
